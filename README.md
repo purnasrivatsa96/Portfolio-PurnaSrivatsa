@@ -17,7 +17,10 @@ This project helps researchers manage and visualize the content of the papers in
 * **Output:** A visual representation of the literature review
 
 # [Project 2: Quiz Management app](https://github.com/purnasrivatsa96/Quiz-management-system-Java-)
-
+![alt text](login.png)
+![alt text](subject_home.png)
+![alt text](insert_chem_true_false.png)
+![alt text](generate_test_chem.png)
 An Android application in Java for conducting quizzes.
 • Used Jquery mobile for frontend and SQLite to store and retreive data.
 * **Frameworks and languages** Java, Android, SQLite
