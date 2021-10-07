@@ -9,21 +9,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# John Doe
+*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
-# Header 1
-## Header 2
-### Header 3
+# Education
+* Masters of Science (Data Science), *YouTube University*, 2016-2018
+* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
-- Bulleted
-- List
+# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
-1. Numbered
-2. List
+This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
+* **Python libraries used:** Streamlit, Huggingface, TensorFlow
+* **Input:** Tweets, News
+* **Output:** Sentiment of Cryptocurrency
 
-**Bold** and _Italic_ and `Code` text
+# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 
-[Link](url) and ![Image](src)
+This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
+* **Python libraries used:** Streamlit, python-binance, cctx, talib
+* **Input:** Cryptocurrency historical price
+* **Output:** Trading signals triggers buying and selling
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
