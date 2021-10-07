@@ -1,20 +1,21 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Purna Srivatsa
+*An Aspiring Software engineer | Virginia Tech | BITS Pilani*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Masters of Engineering (Computer Science), *Virginia Tech*, 2021-2023
+* Bachelors of Engineering (Electronics and Communication), BITS Pilani, 2015-2019
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: Reasearch Visualizer web application](https://github.com/purnasrivatsa96/base-1)
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+This project helps researchers manage and visualize the content of the papers in their literature review..
+* **Frameworks and languages** NodeJs, ExpressJS, MongoDB, Jquery, AJAX, HTML/CSS
+* **Input:** Research papers, Research repositories
+* **Output:** A visual representation of the literature review
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+# [Project 2: Quiz Management app](https://github.com/purnasrivatsa96/Quiz-management-system-Java-)
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+An Android application in Java for conducting quizzes.
+• Used Jquery mobile for frontend and SQLite to store and retreive data.
+* **Frameworks and languages** Java, Android, SQLite
+* **Input:** Questions and choice of subject
+* **Output:** Stores added question into database and generates randomly chosen questions for quiz
