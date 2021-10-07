@@ -6,6 +6,10 @@
 * Bachelors of Engineering (Electronics and Communication), BITS Pilani, 2015-2019
 
 # [Project 1: Reasearch Visualizer web application](https://github.com/purnasrivatsa96/base-1)
+![alt text](Picture1.png)
+![alt text](Picture2.png)
+![alt text](Picture3.png)
+
 
 This project helps researchers manage and visualize the content of the papers in their literature review..
 * **Frameworks and languages** NodeJs, ExpressJS, MongoDB, Jquery, AJAX, HTML/CSS
