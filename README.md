@@ -1,5 +1,5 @@
 # Purna Srivatsa
-*Aspiring Software engineer | Virginia Tech | BITS Pilani*
+*Software engineer | Virginia Tech | BITS Pilani*
 
 # Education
 * Masters of Engineering (Computer Science), *Virginia Tech*, 2021-2023
