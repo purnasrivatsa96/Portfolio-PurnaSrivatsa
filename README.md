@@ -5,7 +5,7 @@
 * Masters of Engineering (Computer Science), *Virginia Tech*, 2021-2023
 * Bachelors of Engineering (Electronics and Communication), BITS Pilani, 2015-2019
 
-# [Project 1: Reasearch Visualizer web application](https://purnasrivatsa96.github.io/Portfolio-PurnaSrivatsa/)
+# [Project 1: Reasearch Visualizer web application](https://github.com/purnasrivatsa96/Base-Research-tool)
 ![alt text](Picture1.png)
 ![alt text](Picture2.png)
 ![alt text](Picture3.png)
